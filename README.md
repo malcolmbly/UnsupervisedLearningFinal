@@ -1,0 +1,1 @@
+Final Project for my CU Boulder Class Introduction to Unsupervised Learning, I worked with [this dataset](https://www.kaggle.com/datasets/mahmoudelhemaly/students-grading-dataset/data) from kaggle to extract insights on various types of students based on their performance, sleep, and stress ratings.
